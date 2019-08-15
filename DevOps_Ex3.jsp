@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>VER1</title>
 </head>
 <body>
-
+	
   <%
     double num = Math.random();
     if (num > 0.95) {
